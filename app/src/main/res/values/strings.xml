@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToEs</string>
+    <string name="action_settings">Config</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">X2bk8unwgNA4lqrWzUdxkNvpN</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">06NI6VXZ3L38X3Up1eY3Zvkf6WZY1ZpwtmlyL8uOuXqyI5HamE</string>
+</resources>
